@@ -4,8 +4,6 @@
 
 🤖 An introduction to Neurosymbolic AI — the hybrid field combining neural networks' pattern learning with symbolic AI's structured reasoning.
 
-## Overview
-
 Neurosymbolic AI combines the pattern-matching power of neural networks (deep learning) with the structure and explainability of symbolic AI (logic and rules). This hybrid approach aims to produce models that are more accurate, data-efficient, and easier to verify.
 
 Below are four common ways to combine neural and symbolic components.
