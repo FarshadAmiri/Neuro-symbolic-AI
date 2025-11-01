@@ -1,8 +1,6 @@
 # Neuro-symbolic AI
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#license)  
-
-🤖 An introduction to Neurosymbolic AI — the hybrid field combining neural networks' pattern learning with symbolic AI's structured reasoning.
+An introduction to Neurosymbolic AI — the hybrid field combining neural networks' pattern learning with symbolic AI's structured reasoning.
 
 Neurosymbolic AI combines the pattern-matching power of neural networks (deep learning) with the structure and explainability of symbolic AI (logic and rules). This hybrid approach aims to produce models that are more accurate, data-efficient, and easier to verify.
 
